@@ -28,3 +28,5 @@ Create and run the Hello World app on the virtual and physical devices.
 Explore the project layout.
 Generate and view log messages from your app.
 Explore the AndroidManifest.xml file.
+
+![helloworld](https://user-images.githubusercontent.com/115769227/224201039-b1d53d11-5fec-48f0-9949-ba0efcd444f4.png)
